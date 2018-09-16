@@ -164,15 +164,16 @@ Meetup (SF): https://www.meetup.com/San-Francisco-Nervos-Meetup/ (new!)
 
 Youtube: https://www.youtube.com/channel/UCONuJGdMzUY0Y6jrPBOzH7A (new!)
 
+
 此文档由北京社区维护。
 
 Nervos北京社区知识星球：
 
-图片: https://images-cdn.shimo.im/SrVcP58D8ikEx6UD/image.png
+![知识星球](./planet.png)
 
 Nervos北京社区公众号：
 
-图片: https://images-cdn.shimo.im/h2e8OPcTsV87ht73/image.png
+![微信公众号](./wechat.png)
 
 
 

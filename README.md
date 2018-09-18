@@ -5,6 +5,8 @@ A curated list of awesome Nervos blockchain libraries, software and resources。
 
 Github：https://github.com/NervosFoundation
 
+Nervos CKB白皮书：https://github.com/NervosFoundation/binary/tree/master/whitepaper
+
 技术论坛： http://forums.nervos.org/
 
 ## Nervos Appchain
@@ -102,8 +104,6 @@ node 4: 121.43.163.31:1340
 测试链水龙头：https://dapp.cryptape.com/faucet/
 
 ## 文档
-
-白皮书：https://github.com/NervosFoundation/binary/tree/master/whitepaper
 
 智能合约开发文档：https://docs.nervos.org/nervos-appchain-docs/#/smart-contract/intro
 

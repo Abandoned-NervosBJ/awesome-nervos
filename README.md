@@ -75,10 +75,12 @@ GitHub : https://github.com/cryptape/appchain-truffle-box
 
 ## 环境搭建
 
-### 自己编译
+### 本地编译
 在Mac上编译部署CITA链 https://ethfans.org/lawup/articles/33401
 
 在Mac上搭建区块链浏览器Microscope https://ethfans.org/lawup/articles/33422
+
+手把手在本地构建 Nervos AppChain 全家桶 https://blog.priewienv.me/2018/09/20/nervos-appchain-local/
 
 ### 华为云一键部署
 https://console.huaweicloud.com/aos/?region=cn-north-1#/app/demoTemplate/demoDetail?id=76f40ef7-2cc0-eb0a-4ed6-26f863edcb38
@@ -91,9 +93,9 @@ Testnet：
 
 node 1: 121.196.200.225:1337 //或者通过域名访问： https://node.cryptape.com
 
-node 2: 116.62.221.89:1338  
+node 2: 116.62.221.89:1338
 
-node 3: 47.96.84.91:1339  
+node 3: 47.96.84.91:1339
 
 node 4: 121.43.163.31:1340
 

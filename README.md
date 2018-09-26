@@ -10,7 +10,7 @@ Nervos CKB白皮书：https://github.com/NervosFoundation/binary/tree/master/whi
 技术论坛： http://forums.nervos.org/
 
 ## Nervos Appchain
-文档：https://docs.nervos.org/nervos-appchain-docs/#/
+文档：https://docs.nervos.org/nervos-appchain-docs/
 
 Github：https://github.com/NervosFoundation/appchain
 
@@ -26,14 +26,14 @@ GitHub  (Android): https://github.com/cryptape/neuron-android
 
 GitHub  (iOS): https://github.com/cryptape/neuron-ios
 
-文档: https://docs.nervos.org/neuron-android/ 
+文档: https://docs.nervos.org/neuron-android/
 
 ### Microscope
 GitHub : https://github.com/cryptape/microscope
 
 Cache Server: ReBirth
 
-文档: https://cryptape.github.io/microscope/ 
+文档: https://cryptape.github.io/microscope/
 
 ### ReBirth
 GitHub : https://github.com/cryptape/re-birth
@@ -86,7 +86,7 @@ GitHub : https://github.com/cryptape/appchain-truffle-box
 https://console.huaweicloud.com/aos/?region=cn-north-1#/app/demoTemplate/demoDetail?id=76f40ef7-2cc0-eb0a-4ed6-26f863edcb38
 
 ### 万云Appchain
-https://www.wancloud.io/#/
+https://www.wancloud.io/
 
 ### 官方测试链
 Testnet：
@@ -176,7 +176,3 @@ Nervos北京社区知识星球：
 Nervos北京社区公众号：
 
 ![微信公众号](./wechat.png)
-
-
-
-

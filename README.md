@@ -9,6 +9,13 @@ Nervos CKB白皮书：https://github.com/NervosFoundation/binary/tree/master/whi
 
 技术论坛： http://forums.nervos.org/
 
+## Nervos 学习站
+https://learning.nervos.org/
+
+[基于 Nervos AppChain 的 DApp 开发](https://learning.nervos.org/nerv-first)
+
+[基于 Nervos AppChain 的 DApp 开发QA汇总](./learning-nervos-qa.md)
+
 ## Nervos Appchain
 文档：https://docs.nervos.org/nervos-appchain-docs/
 

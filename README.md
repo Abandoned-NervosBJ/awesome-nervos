@@ -1,104 +1,88 @@
 # Awesome Nervos
-A curated list of awesome Nervos blockchain libraries, software and resources。所有关于Nervos的学习资源，库，开发资源等链接。
+A curated list of awesome Nervos blockchain libraries, software and resources。
+所有关于Nervos的学习资源，库，开发资源等链接。
 
-官网：https://nervos.org
+官网：https://www.nervos.org/
 
-Github：https://github.com/NervosFoundation
+Github：https://github.com/nervosnetwork
 
-Nervos CKB白皮书：https://github.com/NervosFoundation/binary/tree/master/whitepaper
+协议：https://github.com/nervosnetwork/rfcs
 
-技术论坛： http://forums.nervos.org/
+Nervos论坛：https://talk.nervos.org/
+
+Cita论坛：https://talk.citahub.com/
+
 
 ## Nervos 学习站
 https://learning.nervos.org/
 
 [基于 Nervos AppChain 的 DApp 开发](https://learning.nervos.org/nerv-first)
 
-[基于 Nervos AppChain 的 DApp 开发QA汇总](./learning-nervos-qa.md)
+### CITA
+GitHub：https://github.com/cryptape/cita
+白皮书： https://github.com/cryptape/cita-whitepaper
+文档：https://docs.citahub.com/zh-CN/welcome
 
-## Nervos Appchain
-文档：https://docs.nervos.org/nervos-appchain-docs/
 
-Github：https://github.com/NervosFoundation/appchain
+### Cyton
+Android：https://github.com/cryptape/cyton-android
 
-### CITA：Blockchain Kernel
-GitHub: https://github.com/cryptape/cita
-
-文档: https://docs.nervos.org/cita
-
-白皮书: https://github.com/cryptape/cita-whitepaper
-
-### Neuron
-GitHub  (Android): https://github.com/cryptape/neuron-android
-
-GitHub  (iOS): https://github.com/cryptape/neuron-ios
-
-文档: https://docs.nervos.org/neuron-android/
+iOS：https://github.com/cryptape/cyton-ios
 
 ### Microscope
-GitHub : https://github.com/cryptape/microscope
+GitHub：https://github.com/cryptape/microscope
 
-Cache Server: ReBirth
-
-文档: https://cryptape.github.io/microscope/
+文档：https://github.com/cryptape/microscope/blob/develop/README-CN.md
 
 ### ReBirth
-GitHub : https://github.com/cryptape/re-birth
+GitHub：https://github.com/cryptape/re-birth
 
-文档: https://github.com/cryptape/re-birth/blob/master/README.md
+文档：https://github.com/cryptape/re-birth/blob/develop/README-CN.md
 
 ## SDK
 
 #### JavaScript
 
-nervos-chain
-GitHub : https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-chain
+GitHub：https://github.com/cryptape/cita-sdk-js/
 
-npm: https://www.npmjs.com/package/@nervos/chain
+NPM：https://www.npmjs.com/package/@cryptape/cita-sdk
 
-文档: https://www.npmjs.com/package/@nervos/chain
+文档：https://github.com/cryptape/cita-sdk-js/blob/develop/docs/zh-CN/cita-sdk.md
 
-#### nervos-signer
-Github：https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-signer
-
-npm: https://www.npmjs.com/package/@nervos/signer
 
 ### java 
 
-#### nervosj
-GitHub: https://github.com/cryptape/nervosj
+GitHub：https://github.com/cryptape/cita-sdk-java
 
-文档: https://github.com/cryptape/nervosj/blob/master/README.md http://docs.nervos.org/nervosj/
+文档：https://github.com/cryptape/cita-sdk-java/blob/develop/README.md
 
-## 协议
-GitHub : https://github.com/cryptape/neuron-rfc
 
 ## 开发工具
 
 ### Truffle Box
-GitHub : https://github.com/cryptape/appchain-truffle-box
+GitHub：https://github.com/cryptape/cita-truffle-box
 
-文档：https://github.com/cryptape/appchain-truffle-box/blob/master/README.md
+文档：https://github.com/cryptape/cita-truffle-box/blob/master/README.md
 
 ## 环境搭建
 
 ### 本地编译
-在Mac上编译部署CITA链 https://ethfans.org/lawup/articles/33401
+[在Mac上编译部署CITA链](https://ethfans.org/lawup/articles/33401)
 
-在Mac上搭建区块链浏览器Microscope https://ethfans.org/lawup/articles/33422
+[在Mac上搭建区块链浏览器Microscope](https://ethfans.org/lawup/articles/33422)
 
-手把手在本地构建 Nervos AppChain 全家桶 https://blog.priewienv.me/2018/09/20/nervos-appchain-local/
+[]在本地构建 Nervos AppChain 全家桶](https://blog.priewienv.me/2018/09/20/nervos-appchain-local)
 
 ### 华为云一键部署
 https://console.huaweicloud.com/aos/?region=cn-north-1#/app/demoTemplate/demoDetail?id=76f40ef7-2cc0-eb0a-4ed6-26f863edcb38
 
-### 万云Appchain
-https://www.wancloud.io/
+### 万云
+https://www.wancloud.io/#/
 
 ### 官方测试链
 Testnet：
 
-node 1: 121.196.200.225:1337 //或者通过域名访问： https://node.cryptape.com
+node 1: 121.196.200.225:1337 或通过域名访问：https://node.cryptape.com
 
 node 2: 116.62.221.89:1338
 
@@ -155,30 +139,30 @@ GitHub：https://github.com/cryptape/dapp-demos/tree/develop/drizzle
 文档：https://github.com/cryptape/dapp-demos/blob/develop/drizzle/README.md
 
 ## 社交媒体
+
+论坛：https://talk.nervos.org/
+
 微信订阅号：NervosNetwork
 
 中文电报群：https://t.me/NervosNetworkcn
 
-英文电报群:   https://t.me/nervosnetwork
+英文电报群：https://t.me/nervosnetwork
 
-Twitter: https://twitter.com/nervosnetwork
+Twitter：https://twitter.com/nervosnetwork
 
-Github: https://github.com/NervosFoundation 
+Github：https://github.com/nervosnetwork 
 
-Medium: https://medium.com/nervosnetwork
+Medium：https://medium.com/nervosnetwork
 
-Reddit: http://reddit.com/r/nervosnetwork
+Reddit：https://www.reddit.com/r/nervosnetwork
 
-Meetup (SF): https://www.meetup.com/San-Francisco-Nervos-Meetup/ (new!)
+Meetup：https://www.meetup.com/San-Francisco-Nervos-Meetup
 
-Youtube: https://www.youtube.com/channel/UCONuJGdMzUY0Y6jrPBOzH7A (new!)
+Youtube: https://www.youtube.com/channel/UCONuJGdMzUY0Y6jrPBOzH7A
 
+---
 
-此文档由北京社区维护。
-
-Nervos北京社区知识星球：
-
-![知识星球](./planet.png)
+此文档由北京社区维护
 
 Nervos北京社区公众号：
 
